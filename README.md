@@ -19,6 +19,7 @@ Power BI – Data visualization and dashboard creation
 Excel / CSV – (If applicable) Used for data cleaning or initial dataset source
 
 Objectives
+
 Identify patterns and areas for operational improvement.
 Track key KPIs relevant to Blinkit’s business model.
 Provide actionable insights into customer needs and preferences.
